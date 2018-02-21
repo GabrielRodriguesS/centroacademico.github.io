@@ -3,8 +3,8 @@ title: CASI
 description: 'Centro Acadêmico de Sistemas de Informação'
 url: 'centroacademico.github.io'
 baseurl: '/'
-# google_analytics: 'UA-XXXXXX-X'
-# disqus_shortname: 'your-disqus-name'
+google_analytics: 'UA-114541288-1'
+disqus_shortname: 'centroacademico-github-io'
 
 author:
   name: 'CASI'
@@ -24,7 +24,7 @@ defaults:
 
 # Build settings
 destination: _site
-paginate: 10
+paginate: 5
 permalink: /:year/:title/
 markdown: kramdown
 highlighter: rouge
