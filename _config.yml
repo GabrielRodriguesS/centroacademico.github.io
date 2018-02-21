@@ -5,8 +5,6 @@ url: 'centroacademico.github.io'
 baseurl: '/'
 google_analytics: 'UA-114541288-1'
 disqus_shortname: 'centroacademico-github-io'
-layout: default
-comments: true
 
 author:
   name: 'CASI'
